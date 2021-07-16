@@ -6,6 +6,7 @@
 -Redux Persistence
 -Styled Components
 
-
-Link video: https://youtu.be/ml-SHIX9Jr8
-Ejecutar APP: yarn start o expo start
+&nbsp;
+Link video: (https://youtu.be/ml-SHIX9Jr8)
+&nbsp;
+Ejecutar APP: "yarn start o expo start"
