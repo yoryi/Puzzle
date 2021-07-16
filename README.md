@@ -11,5 +11,5 @@ Link video: https://youtu.be/ml-SHIX9Jr8
 <br/>
 
 <br/>
-Ejecutar: yarn start o expo start
+`yarn start o expo start`
 <br/>
