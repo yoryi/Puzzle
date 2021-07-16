@@ -6,6 +6,10 @@
 -Redux Persistence
 -Styled Components
 
-# Link video: https://youtu.be/ml-SHIX9Jr8
+<br/>
+Link video: https://youtu.be/ml-SHIX9Jr8
+<br/>
 
-##Ejecutar: yarn start o expo start
+<br/>
+Ejecutar: yarn start o expo start
+<br/>
