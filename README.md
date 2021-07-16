@@ -12,6 +12,7 @@ Link video: https://youtu.be/ml-SHIX9Jr8
 
 
 ```
-yarn start expo start
+yarn: yarn start 
+expo: expo start
 
 ```
