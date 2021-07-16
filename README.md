@@ -10,10 +10,8 @@
 Link video: https://youtu.be/ml-SHIX9Jr8
 <br/>
 
-<br/>
+
 ```
-yarn start
-expo start
-		
+yarn start expo start
+
 ```
-<br/>
