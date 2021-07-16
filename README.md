@@ -11,5 +11,9 @@ Link video: https://youtu.be/ml-SHIX9Jr8
 <br/>
 
 <br/>
-`yarn start o expo start`
+		```
+		
+		//yarn start
+		
+		```
 <br/>
